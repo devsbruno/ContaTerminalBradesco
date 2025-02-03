@@ -1,3 +1,4 @@
+
 # ContaBanco
 
 Este é um projeto simples de um sistema de conta bancária em Java. O programa solicita ao usuário que insira os dados da conta via terminal e exibe uma mensagem de confirmação com as informações fornecidas.
@@ -9,3 +10,5 @@ Este é um projeto simples de um sistema de conta bancária em Java. O programa 
 - Solicitar nome do cliente
 - Solicitar saldo da conta
 - Exibir mensagem de confirmação com os dados fornecidos
+
+Para mais detalhes, você pode conferir a [documentação do projeto](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe).
